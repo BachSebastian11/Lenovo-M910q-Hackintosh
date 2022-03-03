@@ -22,7 +22,7 @@ Mine unit is come with a Xeon 2176M, but should works with any M910q/710q platfo
 
 ### What Works :
 
-- [x] Intel UHD Graphics 630 iGPU DP Output 
+- [x] Intel UHD Graphics P630 iGPU DP Output 
 - [x] DP to HDMI Adapter 
 - [x] ALC294 Internal Speakers 
 - [x] ALC294 & DP Audio Output 
