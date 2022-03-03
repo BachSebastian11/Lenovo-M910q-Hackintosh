@@ -9,7 +9,7 @@ Mine unit is come with a Xeon 2176M, but should works with any M910q/710q platfo
 | ---------------- | -------------------------------------- | 
 | CPU              | Intel® Xeon™ E-2176M(Mobile)           | 
 | iGPU             | Intel® UHD Graphics P630               |
-| RAM              | 2 * 8GB DDR4 2400Mhz                   | 
+| RAM              | 2 * Samsung 8GB DDR4 2666Mhz           | 
 | NVMe             | T-Force CARDEA Zero Z440 1TB           | 
 | LAN              | Intel I219-V                           | 
 | Audio            | Realtek ALC294                         | 
