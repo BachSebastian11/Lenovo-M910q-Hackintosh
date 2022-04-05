@@ -15,7 +15,7 @@ Mine unit is come with a Xeon 2176M, but should works with any M910q/710q platfo
 | Audio            | Realtek ALC294                         | 
 | WiFi & Bluetooth | Apple BCM943224 with adapter to NGFF   | 
 | SMBIOS           | MacMini8,1                             |
-| BootLoader       | OpenCore 0.7.6                         |
+| BootLoader       | OpenCore 0.7.9                         |
 
 ### What Works :
 
