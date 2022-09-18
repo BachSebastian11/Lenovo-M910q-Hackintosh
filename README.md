@@ -1,5 +1,5 @@
 # Lenovo-M910q/710q-Hackintosh
-OpenCore EFI compatible with macOS Bigsur/Monterey for Lenovo ThinkCentre M910q/710q   
+OpenCore EFI compatible with macOS Big Sur/Monterey for Lenovo ThinkCentre M910q/710q   
 My unit is equiped with a Xeon 2176M, but should works with any M910q/710q device with modified BIOS to support 8th gen CPUs
 ![image](https://github.com/nvt194/Lenovo-M910q-Hackintosh/blob/main/Screenshots/about.png?raw=true)
 
